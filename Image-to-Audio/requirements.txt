@@ -1,0 +1,6 @@
+flask
+opencv-python
+tensorflow==2.8.0
+keras_preprocessing
+tqdm
+pyttsx3
